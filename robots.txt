@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pawlqo.github.io/Ksg/sitemap.Ksg.gz
